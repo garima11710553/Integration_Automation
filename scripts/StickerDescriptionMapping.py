@@ -1,0 +1,16 @@
+d={
+	'CollageStateSticker':'CSS',
+	'StickerStateNCFrame':'SSNCF',
+	'h':'h',
+	'w':'w',
+	'x':'x',
+	'y':'y',
+	'StickerStatePreviousPanPoint':'SPanP',
+	'StickerStatePreviousRotation':'SSPR',
+	'StickerStatePreviousScale':'SSPS',
+	'StickerStateRotationAngle':'SSRA',
+	'StickerStateScale':'SSSCL',
+	'StickerStateStickerCustomSticker':'SCusS',
+	'StickerStateStyle':'SSSt',
+	'StickerStateZorder':'SSZ'
+}

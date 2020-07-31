@@ -1,0 +1,31 @@
+[
+    "BBQ_LC_001",
+    "BBQ_GR_002",
+    "Valentines_JD_001",
+    "Generic_GR_010",
+    "Birthday_MS_001",
+    "ThankYou_LC_001",
+    "ThankYou_GM_001",
+    "ThankYou_LC_002",
+    "ThankYou_EA_003",
+    "ThankYou_MSz_002",
+    "Winter_GR_003",
+    "Invitation_GR_006",
+    "Invitation_LC_001",
+    "Flowers_RB_007",
+    "Comic_RB_001",
+    "Abstract_JD_001",
+    "Holiday_RB_005",
+    "Holiday_JD_004_8",
+    "School_RB_002",
+    "School_MS_001",
+    "School_JD_002",
+    "School_GR_002",
+    "Family_LC_002",
+    "Family_EW_003"
+]
+
+[
+    "BBQ_JD_002",
+    "BBQ_EC_004",
+]
